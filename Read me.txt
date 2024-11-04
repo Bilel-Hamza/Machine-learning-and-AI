@@ -1,0 +1,15 @@
+The problem: Our algorithm that solves the salesman problem using ACO "Ant Colony Optimization".
+We want to optimize the algorithm. 
+
+The project is about finding the best parameters
+
+- The folder "code" contains the original code
+- The folder "updated code" contains the original code with some changes:
+	-  Implementing the elitist ant algorithm
+	-  Using the data2 
+
+- The folder references contains some references we read during our research
+- the  MNIST CNN optimized with ACO notebook contains our try to optimize the number of layers in CNN using the ACO which is important to make the model more performant 
+- The "ACO version 2" is a presentation with all the tables
+- The "ACO version 1" is a presentation without the tables
+ 
